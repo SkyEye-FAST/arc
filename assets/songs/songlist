@@ -1370,7 +1370,7 @@
           "ratingClass": 2,
           "chartDesigner": "Kurorak",
           "jacketDesigner": "",
-          "rating": 9
+          "rating": 8
         }
       ]
     },
@@ -2812,8 +2812,7 @@
           "ratingClass": 2,
           "chartDesigner": "Nitro",
           "jacketDesigner": "シエラ",
-          "rating": 9,
-          "ratingPlus": true
+          "rating": 9
         }
       ]
     },
@@ -5663,8 +5662,7 @@
           "chartDesigner": "恋のToaster",
           "jacketDesigner": "シエラ",
           "jacket_night": "base_night",
-          "rating": 9,
-          "ratingPlus": true
+          "rating": 9
         }
       ]
     },
@@ -5952,7 +5950,8 @@
           "ratingClass": 2,
           "chartDesigner": "N↕TRO",
           "jacketDesigner": "GreeN",
-          "rating": 9
+          "rating": 9,
+          "ratingPlus": true
         }
       ]
     },
@@ -6488,7 +6487,8 @@
           "ratingClass": 2,
           "chartDesigner": "Nitro",
           "jacketDesigner": "久賀フーナ",
-          "rating": 9
+          "rating": 9,
+          "ratingPlus": true
         }
       ]
     },
@@ -6773,7 +6773,8 @@
           "ratingClass": 2,
           "chartDesigner": "Onslaught - Crescendo",
           "jacketDesigner": "シエラ",
-          "rating": 10
+          "rating": 10,
+          "ratingPlus": true
         },
         {
           "ratingClass": 3,
@@ -6781,7 +6782,8 @@
           "jacketDesigner": "シエラ",
           "rating": 11,
           "jacketOverride": true,
-          "hidden_until_unlocked": true
+          "hidden_until_unlocked": true,
+          "hidden_until": "difficulty"
         }
       ]
     },
@@ -6802,7 +6804,6 @@
       "bg": "arcahv",
       "remote_dl": false,
       "world_unlock": true,
-      "songlist_hidden": true,
       "date": 1590537606,
       "version": "3.0",
       "difficulties": [
@@ -6811,14 +6812,16 @@
           "chartDesigner": "∅",
           "jacketDesigner": "シエラ",
           "rating": 4,
-          "hidden_until_unlocked": true
+          "hidden_until_unlocked": true,
+          "hidden_until": "difficulty"
         },
         {
           "ratingClass": 1,
           "chartDesigner": "∅",
           "jacketDesigner": "シエラ",
           "rating": 7,
-          "hidden_until_unlocked": true
+          "hidden_until_unlocked": true,
+          "hidden_until": "difficulty"
         },
         {
           "ratingClass": 2,
@@ -6826,6 +6829,7 @@
           "jacketDesigner": "シエラ",
           "rating": 9,
           "hidden_until_unlocked": true,
+          "hidden_until": "difficulty",
           "ratingPlus": true
         }
       ]
@@ -6907,7 +6911,7 @@
           "ratingClass": 2,
           "chartDesigner": "CERiNG",
           "jacketDesigner": "mokeo",
-          "rating": 9
+          "rating": 8
         }
       ]
     },
@@ -8683,8 +8687,7 @@
           "ratingClass": 2,
           "chartDesigner": "竹の子",
           "jacketDesigner": "石王マサト",
-          "rating": 9,
-          "ratingPlus": true
+          "rating": 10
         }
       ]
     },
@@ -9000,7 +9003,7 @@
           "ratingClass": 1,
           "chartDesigner": "⟨OBSRV⟩ boundary(?°a,?°A)",
           "jacketDesigner": "シエラ",
-          "rating": 8
+          "rating": 9
         },
         {
           "ratingClass": 2,
@@ -9207,7 +9210,7 @@
           "ratingClass": 2,
           "chartDesigner": "Toaster",
           "jacketDesigner": "志月",
-          "rating": 8
+          "rating": 9
         }
       ]
     },
@@ -9371,8 +9374,7 @@
           "ratingClass": 2,
           "chartDesigner": "NITRO -unconnected-",
           "jacketDesigner": "fixro2n",
-          "rating": 9,
-          "ratingPlus": true
+          "rating": 10
         }
       ]
     },
@@ -11391,6 +11393,483 @@
           "jacketDesigner": "Ancy",
           "rating": 8
         }
+      ]
+    },
+	{
+      "idx": 271,
+      "id": "altair",
+      "title_localized": {
+        "en": "Altair (feat. *spiLa*)"
+      },
+      "artist": "kamome sano & you",
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 103764,
+      "audioPreviewEnd": 128470,
+      "side": 0,
+      "bg": "nijuusei2_light",
+      "remote_dl": false,
+      "world_unlock": true,
+      "date": 1657152000,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "minamo + レク",
+          "chartDesigner": "antymis",
+          "rating": 2
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "minamo + レク",
+          "chartDesigner": "antymis",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "minamo + レク",
+          "chartDesigner": "antymis",
+          "rating": 8
+        }
+      ]
+    },
+    {
+      "idx": 272,
+      "id": "mukishitsu",
+      "title_localized": {
+        "en": "Redraw the Colorless World",
+		"ja": "無機質世界に彩を"
+      },
+      "artist": "MisomyL",
+      "bpm": "155",
+      "bpm_base": 155,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 50709,
+      "audioPreviewEnd": 75870,
+      "side": 0,
+      "bg": "prelude_light",
+      "remote_dl": false,
+      "world_unlock": true,
+      "date": 1657152001,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "antymis ~無色~",
+          "jacketDesigner": "",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "antymis ~彩色~",
+          "jacketDesigner": "",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "antymis ~虹色~",
+          "jacketDesigner": "",
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "idx": 273,
+      "id": "trapcrow",
+      "title_localized": {
+        "en": "Trap Crow"
+      },
+      "artist": "Puru",
+      "bpm": "80",
+      "bpm_base": 160,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 61125,
+      "audioPreviewEnd": 85125,
+      "side": 1,
+      "bg": "prelude_conflict",
+      "remote_dl": false,
+      "world_unlock": true,
+      "date": 1657152002,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "Khronetic",
+          "chartDesigner": "CERiNG + Nitro",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "Khronetic",
+          "chartDesigner": "CERiNG + Nitro",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "Khronetic",
+          "chartDesigner": "CERiNG + Nitro",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 274,
+      "id": "pupa",
+      "title_localized": {
+        "en": "PUPA"
+      },
+      "artist": "モリモリあつし",
+      "bpm": "202",
+      "bpm_base": 202,
+      "set": "single",
+      "purchase": "pupa",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "single2_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1657152003,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "yoshimo",
+          "chartDesigner": "én -胡蝶の夢-",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "yoshimo",
+          "chartDesigner": "én -胡蝶の夢-",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "yoshimo",
+          "chartDesigner": "én -胡蝶の夢-",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "idx": 275,
+      "id": "defection",
+      "title_localized": {
+        "en": "Defection"
+      },
+      "artist": "TeddyLoid feat. DELTA",
+      "bpm": "160",
+      "bpm_base": 160,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "finale_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1657152004,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "美和野らぐ",
+          "chartDesigner": "Monolith Incarnate",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "美和野らぐ",
+          "chartDesigner": "Monolith Incarnate",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "美和野らぐ",
+          "chartDesigner": "Monolith Incarnate",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 276,
+      "id": "infinitestrife",
+      "title_localized": {
+        "en": "Infinite Strife,"
+      },
+      "artist": "BlackYooh vs. siromaru",
+      "bpm": "198",
+      "bpm_base": 198,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "finale_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152005,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 9,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 10,
+          "ratingPlus": true,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 277,
+      "id": "worldender",
+      "title_localized": {
+        "en": "World Ender",
+		"ja": "魔王"
+      },
+      "artist": "sasakure.UK × TJ.hangneil",
+      "bpm": "190-280",
+      "bpm_base": 280,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 642,
+      "audioPreviewEnd": 33000,
+      "side": 0,
+      "bg": "finale_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152006,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 9,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 11,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 278,
+      "id": "pentiment",
+      "title_localized": {
+        "en": "Pentiment"
+      },
+      "artist": "Nothing But Requiem with Museo",
+      "bpm": "200-222",
+      "bpm_base": 222,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 35675,
+      "audioPreviewEnd": 69189,
+      "side": 1,
+      "bg": "pentiment",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152007,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 6
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 10
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 11,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 279,
+      "id": "arcanaeden",
+      "title_localized": {
+        "en": "Arcana Eden"
+      },
+      "artist": "Team Grimoire vs Sakuzyo vs Laur",
+      "bpm": "211",
+      "bpm_base": 211,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 2274,
+      "audioPreviewEnd": 32985,
+      "side": 1,
+      "bg": "arcanaeden",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152008,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 5
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 10
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 11,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 280,
+      "id": "testify",
+      "title_localized": {
+        "en": "Testify"
+      },
+      "artist": "void (Mournfinale) feat. 星熊南巫",
+      "bpm": "178",
+      "bpm_base": 178,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 66067,
+      "audioPreviewEnd": 86629,
+      "side": 2,
+      "bg": "testify",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "songlist_hidden": true,
+      "date": 1657152009,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eternal¦PAST",
+          "rating": 7,
+          "hidden_until": "song"
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Adverse¦PRESENT",
+          "rating": 9,
+          "hidden_until": "song"
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Black¦FUTURE",
+          "rating": 10,
+          "ratingPlus": true,
+          "hidden_until": "song"
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Silent¦END",
+          "rating": 12,
+          "world_unlock": false,
+          "hidden_until": "song"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
       ]
     }
   ]

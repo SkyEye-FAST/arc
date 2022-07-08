@@ -3727,6 +3727,334 @@
         }
       ]
     }
+	,
+    {
+      "songId": "mukishitsu",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "altair",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 60
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "mukishitsu",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "altair",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "trapcrow",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mukishitsu",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 80
+        }
+      ]
+    }
+    ,
+    {
+      "songId": "trapcrow",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "mukishitsu",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 0,
+          "credit": 280
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "infinitestrife",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "worldender",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "pentiment",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "arcanaeden",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        },
+        {
+          "type": 101,
+          "min": 5,
+          "max": 15
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "testify",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    }
   ]
 }
 

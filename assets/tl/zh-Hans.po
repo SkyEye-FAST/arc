@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2022-05-16 17:41+0900\n"
+"PO-Revision-Date: 2022-06-20 22:16+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -9,10 +9,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1\n"
 "X-Poedit-Basepath: ../../Classes\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SearchPath-0: .\n"
+
+msgid ""
+"\n"
+"\n"
+"WARNING!\n"
+"Warped Shard/Stamina has already been consumed.\n"
+"Exiting will abandon your Course."
+msgstr ""
+"\n"
+"\n"
+"警告！体力 / 次元结晶已经被消耗\n"
+"退出将视为放弃挑战"
 
 msgid ""
 "\n"
@@ -31,12 +43,15 @@ msgstr "重试"
 msgid " Unlock"
 msgstr "全部内容"
 
+msgid "%1@ Songs Favorited"
+msgstr "已收藏 %1@ 首歌曲"
+
 msgid ""
 "%@\n"
 "OR %2@"
 msgstr ""
 "%@\n"
-"或选择 %2@"
+"或 %2@"
 
 msgid ""
 "%@\n"
@@ -55,7 +70,7 @@ msgid "%@ Minute(s) Until Full"
 msgstr "装满需要%@分钟"
 
 msgid "%@ OR %2@"
-msgstr "%@ 或选择 %2@"
+msgstr "%@ 或 %2@"
 
 msgid "%@ Second(s) Until Full"
 msgstr "装满需要%@秒"
@@ -71,6 +86,9 @@ msgstr "需要%@数量："
 
 msgid "%@/%2@ Obtained"
 msgstr "收集数量 %@/%2@"
+
+msgid "%@/%2@ packs unlocked"
+msgstr "已解锁 %@/%2@ 个曲包"
 
 msgid "%@/%2@ songs unlocked"
 msgstr "%@/%2@首歌曲已解锁"
@@ -121,6 +139,16 @@ msgstr "五周年兑换券"
 msgid "???"
 msgstr "???"
 
+msgid "A Perfect Wish"
+msgstr "完美之愿"
+
+msgid ""
+"A network error has occurred.\n"
+"Please re-enter Axiom of the End."
+msgstr ""
+"网络连接出现了问题\n"
+"请重新进入Axiom of the End"
+
 msgid ""
 "A network error has occurred.\n"
 "The song could not be started online.\n"
@@ -132,6 +160,15 @@ msgstr ""
 msgid "A problem occured updating data..."
 msgstr "更新数据时发生了问题……"
 
+msgid "A rising tension"
+msgstr "局势愈发紧张"
+
+msgid "A song at the start of time"
+msgstr "时初之间的歌曲"
+
+msgid "A tempest descends"
+msgstr "风暴降临"
+
 msgid ""
 "A temporary hold has been placed on your account.\n"
 "Please visit the official website to resolve the issue."
@@ -142,6 +179,9 @@ msgstr "相性契合"
 
 msgid "AUDIO"
 msgstr "音频 "
+
+msgid "Abandon Course"
+msgstr "放弃挑战"
 
 msgid "Abandon Song"
 msgstr "退出乐曲"
@@ -158,6 +198,9 @@ msgstr "账号删除邮件已发送"
 msgid "Achievements"
 msgstr "成就"
 
+msgid "Achromic Side"
+msgstr "消色之侧"
+
 msgid "Activate"
 msgstr "激活"
 
@@ -165,8 +208,8 @@ msgid ""
 "Ad-lib effects on hitting floor lanes\n"
 "when playing a %2@ song"
 msgstr ""
-"游玩%2@的曲目时，\n"
-"打击地面轨道会触发AD-LIB效果。"
+"游玩 %2@ 的曲目时\n"
+"打击地面轨道会触发即兴演奏（AD-LIB）效果"
 
 msgid "Add"
 msgstr "添加"
@@ -248,12 +291,15 @@ msgid ""
 "Contact support@lowiro.com if this error persists."
 msgstr ""
 "系统在赎回您的购买时遭遇了未知的错误\n"
-"请检查您的网络连接是否正常，再尝试点击“恢复购买”按钮\n"
+"请检查您的网络连接是否正常，再尝试点击「恢复购买」按钮\n"
 "\n"
 "若相同的错误依旧存在，请尝试邮件联系 support@lowiro.com"
 
 msgid "An unknown error has occured."
 msgstr "发生了未知错误"
+
+msgid "And now, the end"
+msgstr "当下，正是终焉"
 
 msgid ""
 "Arc notes can also turn into Traces.\n"
@@ -266,7 +312,7 @@ msgid ""
 "Arc notes can reappear during Traces.\n"
 "Touch and hold them as before."
 msgstr ""
-"音弧可能在音轨上生成\n"
+"音弧可能在音轨上重新生成\n"
 "此时需要像之前一样按住它们"
 
 msgid "Arcaea's story is bundled with certain song packs."
@@ -373,6 +419,9 @@ msgstr "无央的决裂"
 msgid "Brillante"
 msgstr "布丽兰特"
 
+msgid "Bundle price"
+msgstr "捆绑包价格"
+
 msgid "CANCEL"
 msgstr "取消"
 
@@ -391,6 +440,9 @@ msgstr "通关"
 msgid "COMPLETE"
 msgstr "完成"
 
+msgid "CREATOR"
+msgstr "创世型"
+
 msgid "CURRENT"
 msgstr "目前"
 
@@ -399,6 +451,9 @@ msgstr "取消"
 
 msgid "Caution"
 msgstr "警告"
+
+msgid "Challenge"
+msgstr "挑战"
 
 msgid "Chapter"
 msgstr "章节"
@@ -499,6 +554,9 @@ msgstr "完成"
 msgid "Complete Purchase"
 msgstr "恢复购买"
 
+msgid "Complete ‘Black Fate’ and see VS-8 to progress to this Pack"
+msgstr "在开启本曲包前，请先完成「Black Fate」曲包并阅读故事 VS-8"
+
 msgid "Confirm"
 msgstr "确认"
 
@@ -508,11 +566,17 @@ msgstr "确认覆盖云端数据"
 msgid "Confirm Data Download"
 msgstr "确认数据下载"
 
+msgid "Confirm Difficulty"
+msgstr "请选择难度"
+
 msgid "Confirmation"
 msgstr "确认"
 
 msgid "Conflict Side"
-msgstr "「纷争」之侧"
+msgstr "纷争之侧"
+
+msgid "Contemplate finality"
+msgstr "注视一切的终结"
 
 msgid "Continue"
 msgstr "继续"
@@ -537,6 +601,12 @@ msgstr ""
 
 msgid "Could not connect to online server."
 msgstr "无法连接至服务器"
+
+msgid "Course Mode"
+msgstr "段位挑战"
+
+msgid "Course has been abandoned"
+msgstr "已放弃本次段位挑战"
 
 msgid "Create Account"
 msgstr "创建账号"
@@ -614,6 +684,9 @@ msgstr "设备数量已达到上限"
 msgid "Difficulty"
 msgstr "难度"
 
+msgid "Difficulty can be changed later"
+msgstr "之后也可以更换难度"
+
 msgid "Disabled"
 msgstr "关闭"
 
@@ -626,6 +699,13 @@ msgstr ""
 
 msgid "Disconnected from Link Play"
 msgstr "已从Link Play断开连接"
+
+msgid ""
+"Display a visual effect\n"
+"on screen touch"
+msgstr ""
+"显示屏幕的\n"
+"触控视觉效果"
 
 msgid "Does not expire."
 msgstr "长期存在。"
@@ -643,11 +723,11 @@ msgid "Download \"%@\"?"
 msgstr "下载「%@」？"
 
 msgid ""
-"Download '%@' Pack?\n"
-"Estimated size: 20MB+"
+"Download '%1@' Pack?\n"
+"Estimated size: %2@MB+"
 msgstr ""
-"确认下载歌曲包《%@》？\n"
-"预计产生流量：大于20MB"
+"确认下载歌曲包《%1@》？\n"
+"预计产生流量：大于%2@MB"
 
 msgid "Download All"
 msgstr "全部下载"
@@ -665,6 +745,9 @@ msgstr ""
 
 msgid "Download song?"
 msgstr "下载曲目吗？"
+
+msgid "Download songs for course mode?"
+msgstr "是否下载本段位的歌曲？"
 
 msgid "Download was cancelled."
 msgstr "下载已取消"
@@ -718,8 +801,8 @@ msgid ""
 "Earn +%@ Fragment(s)\n"
 "for each %2@ combo reached"
 msgstr ""
-"每达成%2@连击时，\n"
-"最终残片奖励增加%@"
+"每达成 %2@ 连击时，\n"
+"最终残片奖励增加 %@"
 
 msgid ""
 "Earn +%@ Fragments\n"
@@ -733,7 +816,7 @@ msgid ""
 "when playing a %2@ song"
 msgstr ""
 "在游玩 %2@ 的歌曲时\n"
-"得到 %@ 额外残片"
+"获得 %@ 额外残片"
 
 msgid ""
 "Earn +%@ Fragments (increases for each\n"
@@ -854,6 +937,9 @@ msgstr "扩充好友上限"
 msgid "FAR judgments hidden"
 msgstr "隐藏模糊（Far）判定"
 
+msgid "FAVORITES"
+msgstr "FAVORITES"
+
 msgid "FIRST CLEAR"
 msgstr "初次通关"
 
@@ -862,6 +948,9 @@ msgstr "FR/PM 指示灯"
 
 msgid "FRAGMENTS"
 msgstr "残片"
+
+msgid "Face the songs you have already confronted and find a way forward."
+msgstr "直面与你相遇过的歌曲，探索前进的道路"
 
 msgid "Find the path to a different future"
 msgstr "寻找通往不同未来的道路"
@@ -951,11 +1040,14 @@ msgstr "玩法"
 msgid "Give Lead"
 msgstr "设置为房主"
 
+msgid "Glass gathered without balance"
+msgstr "玻璃相聚，却无法成对"
+
 msgid "Go to Map"
 msgstr "前往对应地图"
 
 msgid "Good luck in the upper levels of Arcaea!"
-msgstr "祝你在 Arcaea 的进阶内容中好运！"
+msgstr "祝你在 Arcaea 的进阶难度中好运！"
 
 msgid "Google Play"
 msgstr "Google Play"
@@ -995,13 +1087,20 @@ msgid ""
 "HARD + MIRROR - OVER increased by\n"
 "up to %@ based on Recollection Rate"
 msgstr ""
-"困难 + 镜像 - 超量加成随回忆率提升\n"
+"困难 + 镜像 - 超限加成随回忆率提升\n"
 "提升量最多为%@"
 
 msgid ""
 "HARD + Recollection Rate gain disabled\n"
 "when below %@ combo"
-msgstr "困难 + 连击数小于20时不会增加回忆率"
+msgstr "困难 + 连击数小于 %@ 时不会增加回忆率"
+
+msgid ""
+"HARD - Fatalis Gauge + sacrifices stamina\n"
+"to overload World Mode"
+msgstr ""
+"困难 - 宿命收集条 + 牺牲体力\n"
+"让世界模式过载"
 
 msgid "HARD - Tempest Gauge"
 msgstr "困难 - 风暴收集条"
@@ -1042,6 +1141,9 @@ msgstr ""
 msgid "Hollow Core"
 msgstr "中空核心"
 
+msgid "Horizon of Anamnesis"
+msgstr "回首的天涯"
+
 msgid "I Agree"
 msgstr "同意"
 
@@ -1066,6 +1168,23 @@ msgid "Illustration"
 msgstr "插画"
 
 msgid ""
+"In a land of scattered glass: alone, afraid, and\n"
+"unafraid, they met first with tragedy, and then\n"
+"each other. Now, their memories have taken shape.\n"
+"\n"
+"Main Story Chronicles contains each Main Story\n"
+"chapter up to and including Black Fate. Join Hikari\n"
+"and Tairitsu on their arduous journeys, and beyond."
+msgstr ""
+"在那布满玻璃碎片的世界中，伴随着孤独、恐惧\n"
+"与坚定的内心，在经历了种种悲剧后最终互相邂逅。\n"
+"现在，她们的记忆也已成形。\n"
+"\n"
+"主线回忆录将包含「Black Fate」\n"
+"以及之前所有的主线剧情曲包。\n"
+"加入光与对立的这场艰巨的旅途，直至远方吧。"
+
+msgid ""
 "In order to use the Arcaea online services\n"
 "you must read and agree to the following:"
 msgstr ""
@@ -1086,11 +1205,11 @@ msgid ""
 "Increased Recollection Rate change per note\n"
 "No Recollection Rate gain for FAR notes"
 msgstr ""
-"增加击中音符后回忆率的变化。\n"
-"但判定为模糊（Far）时不会获取任何回忆率。"
+"增加击中音符后回忆率的变化\n"
+"但判定为模糊（Far）时不会获取任何回忆率"
 
 msgid "Instantly obtain all songs in 'World Extend'"
-msgstr "立即获取《World Extend》中的全部曲目"
+msgstr "立即获取「World Extend」中的全部曲目"
 
 msgid "Insufficient Cores"
 msgstr "核心不足"
@@ -1160,20 +1279,6 @@ msgstr ""
 "在选择歌曲时离开将会导致你\n"
 "从Link Play断开连接"
 
-msgid ""
-"Legacy chapters allow very fast progression through World Mode\n"
-"and are especially recommended for beginners."
-msgstr ""
-"「遗产」章节允许玩家十分快速地获得世界模式的进展度，\n"
-"因此强烈推荐初心者游玩此类章节"
-
-msgid ""
-"Legacy chapters have reduced stamina cost per play,\n"
-"allowing you to play more times."
-msgstr ""
-"游玩遗产章节所消耗的体力将逐步减少，\n"
-"使得你可以连续游玩更多曲目"
-
 msgid "Let's put everything new together!"
 msgstr "让我们把所有元素放在一起！"
 
@@ -1202,7 +1307,7 @@ msgid "Level before"
 msgstr "目前等级"
 
 msgid "Light Side"
-msgstr "「光芒」之侧"
+msgstr "光芒之侧"
 
 msgid "Lily"
 msgstr "莉莉"
@@ -1233,7 +1338,7 @@ msgid "Logout"
 msgstr "登出"
 
 msgid "Lose %@ Fragments on Track Lost"
-msgstr "在 Track Lost 时丢失%@残片"
+msgstr "在 Track Lost 时丢失 %@ 残片"
 
 msgid "Lost World"
 msgstr "失落的世界"
@@ -1245,7 +1350,7 @@ msgid "Luna & Mia"
 msgstr "露娜 & 美亚"
 
 msgid "MAX"
-msgstr "极限"
+msgstr "最高"
 
 msgid "MDA-21"
 msgstr "MDA-21"
@@ -1265,6 +1370,9 @@ msgstr ""
 
 msgid "Main Menu"
 msgstr "主菜单"
+
+msgid "Main Story Chronicles"
+msgstr "主线回忆录"
 
 msgid "Manage Downloads"
 msgstr "管理下载"
@@ -1332,12 +1440,12 @@ msgid ""
 "\n"
 "Purchases are made in accordance with:"
 msgstr ""
-"付费货币“记忆源点”可用于购买单曲、\n"
+"付费货币「记忆源点」可用于购买单曲、\n"
 "曲包与指定后续内容\n"
 "\n"
 "联网登录的状态下，方可使用此货币\n"
 "\n"
-"“记忆源点”与你的Arcaea账号绑定，永久有效\n"
+"记忆源点与你的韵律源点账号绑定，永久有效\n"
 "\n"
 "游戏内容的相关购买将遵循以下条款："
 
@@ -1348,7 +1456,7 @@ msgid ""
 "Memory Boost increases progress and experience for your next World play.\n"
 "It stays active until you play a song in any map. (Excludes Legacy chapters)"
 msgstr ""
-"激活“源韵强化”将使下一次游玩世界模式时的结算步数与经验值增加数倍。\n"
+"激活「源韵强化」将使下一次游玩世界模式时的结算步数与经验值增加数倍。\n"
 "在游玩任意世界歌曲前，此增益效果将一直处于激活状态（对遗产章节无效）。"
 
 msgid ""
@@ -1371,7 +1479,7 @@ msgid "More"
 msgstr "其他"
 
 msgid "More "
-msgstr "更多"
+msgstr "其他"
 
 msgid "More players are needed to start."
 msgstr "需要更多的玩家以开始"
@@ -1403,9 +1511,6 @@ msgstr "名称"
 
 msgid "Nami"
 msgstr "奈美"
-
-msgid "Network"
-msgstr "网络"
 
 msgid "Network Error"
 msgstr "网络错误"
@@ -1519,8 +1624,8 @@ msgid ""
 "OVERFLOW - EASY Recollection Rate \n"
 "HARD upon reaching 100% Recollection"
 msgstr ""
-"溢出 - 「简单」模式回忆率，\n"
-"但当回忆率到达100%后转变为“困难”"
+"溢出 - 简单模式回忆率\n"
+"但当回忆率到达100%后转变为困难"
 
 msgid "Obtain %@"
 msgstr "获取%@"
@@ -1566,6 +1671,9 @@ msgstr "偏移率"
 msgid "Offset Setup"
 msgstr "偏移率设置"
 
+msgid "One Last Dream"
+msgstr "最终之梦"
+
 msgid "One or more purchases successfully completed."
 msgstr "一次或多次购买已成功恢复"
 
@@ -1580,7 +1688,7 @@ msgid "Outer Reaches"
 msgstr "谜域的界外"
 
 msgid "Overdrive"
-msgstr "超量加成"
+msgstr "超限加成"
 
 msgid "Overview"
 msgstr "章节预览"
@@ -1658,6 +1766,9 @@ msgstr ""
 msgid "Performance"
 msgstr "精彩程度"
 
+msgid "Performance Mode"
+msgstr "低性能模式"
+
 msgid "Play %@ %2@"
 msgstr "游玩 %@ %2@"
 
@@ -1670,13 +1781,6 @@ msgid ""
 msgstr ""
 "此房间正在游玩歌曲\n"
 "目前无法加入"
-
-msgid ""
-"Play+ is also available, which lets you use more stamina\n"
-"and Fragments to boost your progress."
-msgstr ""
-"「游玩+」允许玩家快速使用多份体力\n"
-"来达成使用残片增加进展度的效果"
 
 msgid ""
 "Player Potential shown\n"
@@ -1726,12 +1830,12 @@ msgid ""
 "\n"
 "You can view the Tutorial later from Main Menu > About."
 msgstr ""
-"「现今（Present）」难度有着更具有挑战性的歌曲。\n"
+"「Present」及更高难度将更具挑战性\n"
 "\n"
 "在挑战此难度前建议先学习\n"
-"「进阶教程」。\n"
+"「进阶教程」\n"
 "\n"
-"你可以在主菜单的「更多」选项中找到相同的教程。"
+"你可以在主菜单的「其他」选项中找到相同的教程"
 
 msgid "Price"
 msgstr "价格"
@@ -1771,6 +1875,13 @@ msgid "Quit"
 msgstr "退出"
 
 msgid ""
+"Quitting will abandon the course.\n"
+"Stamina/Warped Shard will be spent!"
+msgstr ""
+"在此退出将放弃本次段位挑战\n"
+"体力与次元结晶将会被消耗！"
+
+msgid ""
 "Quitting will abandon the current song.\n"
 "Stamina/Fragments will be spent without progress!"
 msgstr ""
@@ -1807,7 +1918,7 @@ msgid ""
 "Randomly triggers MIRROR\n"
 "Gain +%@ Fragments on MIRROR"
 msgstr ""
-"一定概率造成全曲谱面“镜像”\n"
+"一定概率造成全曲谱面镜像\n"
 "于镜像状态下通关时，奖励 %@ 额外残片"
 
 msgid ""
@@ -1826,20 +1937,20 @@ msgstr ""
 "将发送通知提醒玩家"
 
 msgid "Recollection Gauge is hidden"
-msgstr "隐藏回忆率测量条"
+msgstr "隐藏回忆率"
 
 msgid ""
 "Recollection Gauge measures Grade\n"
 "(Track Lost on Grade A or below)"
 msgstr ""
-"回忆率收集条的读数将决定最终通关评级\n"
+"回忆率的读数将决定最终通关评级\n"
 "(获得 A 级或以下评分则为通关失败)"
 
 msgid "Recollection Gauge set to 0 for LOST notes"
 msgstr "流失音符时回忆率归零"
 
 msgid "Recollection Gauge starts at %@%"
-msgstr "回忆率收集条的初始数值变为%@%"
+msgstr "回忆率的初始数值变为 %@%"
 
 msgid ""
 "Recollection Rate gain disabled\n"
@@ -1854,7 +1965,7 @@ msgstr ""
 "增长倍数会随着歌曲进行逐渐下降"
 
 msgid "Recollection Rate gain reduced to %@%"
-msgstr "回忆率增长倍数减少至%@%"
+msgstr "回忆率增长倍数减少至 %@%"
 
 msgid "Recommended: %@"
 msgstr "建议：%@"
@@ -1864,6 +1975,13 @@ msgstr "兑换"
 
 msgid "Redeem Code"
 msgstr "兑换码"
+
+msgid ""
+"Reduce Visual Effects\n"
+"For low end devices"
+msgstr ""
+"减少视觉特效\n"
+"适用于入门级设备"
 
 msgid "Reduced Recollection Rate gain per note"
 msgstr "减少命中音符所获得的回忆率"
@@ -1900,6 +2018,9 @@ msgstr ""
 msgid "Requires email confirmation"
 msgstr "需要邮件确认"
 
+msgid "Resolve to lose nothing"
+msgstr "下定决心，不会失去任何东西"
+
 msgid "Restart"
 msgstr "重新开始"
 
@@ -1912,6 +2033,9 @@ msgstr "结果"
 msgid "Resume"
 msgstr "返回"
 
+msgid "Retrace our journey"
+msgstr "回忆旅途的过往"
+
 msgid "Retry"
 msgstr "重试"
 
@@ -1922,7 +2046,7 @@ msgid "Rewards"
 msgstr "奖励"
 
 msgid "Rewards unlocked in World Mode can be used and played offline."
-msgstr "从“世界模式”得到的奖励可以在离线状态使用与游玩"
+msgstr "从「世界模式」得到的奖励可以在离线状态使用与游玩"
 
 msgid "Room Management"
 msgstr "房间管理"
@@ -1981,10 +2105,13 @@ msgid "Seele"
 msgstr "希尔"
 
 msgid "Select"
-msgstr "挑选"
+msgstr "选择"
 
 msgid "Select Scenery"
 msgstr "选择场景"
+
+msgid "Select a Course"
+msgstr "选择一个段位"
 
 msgid "Select a Song"
 msgstr "选择一首歌曲"
@@ -2002,7 +2129,7 @@ msgid "Sending..."
 msgstr "数据传输中……"
 
 msgid "Sense of Incompleteness"
-msgstr "探悉遗缺的感知"
+msgstr "遗缺的感知"
 
 msgid "Serial code claimed successfully!"
 msgstr "序列码验证成功！"
@@ -2038,6 +2165,9 @@ msgstr ""
 msgid "Show Potential"
 msgstr "显示潜力值"
 
+msgid "Show Touches"
+msgstr "触控显示"
+
 msgid "Sia"
 msgstr "兮娅"
 
@@ -2068,6 +2198,9 @@ msgid ""
 msgstr ""
 "「天空音符」可能在音轨上生成\n"
 "在它们到达上端判定线时点击它们"
+
+msgid "Slide songs to the right to add them to Favorites."
+msgstr "将歌曲向右划动就可以将它们加入「Favorites」"
 
 msgid ""
 "Some maps have requirements to start them.\n"
@@ -2100,6 +2233,9 @@ msgstr "花费以太之滴升级搭档"
 
 msgid "Spire of Convergence"
 msgstr "聚合的塔尖"
+
+msgid "Stamina"
+msgstr "体力"
 
 msgid "Stamina Notification"
 msgstr "体力槽通知"
@@ -2150,11 +2286,23 @@ msgstr "故事"
 msgid "Story Challenge"
 msgstr "故事挑战"
 
+msgid "Story Mode"
+msgstr "故事模式"
+
 msgid "Story Mode contains the game's unlockable storyline."
-msgstr "「故事」模式包含游戏的剧情，供玩家依次解锁"
+msgstr "「故事模式」包含游戏的剧情，供玩家依次解锁"
 
 msgid "Streaming Mode enabled"
 msgstr "Streaming Mode enabled"
+
+msgid "Submit to entropy"
+msgstr "在飘忽不定中屈服"
+
+msgid "Submit to resignation"
+msgstr "在功亏一篑中屈服"
+
+msgid "Submit to silence"
+msgstr "在寂若死灰中屈服"
 
 msgid "Success"
 msgstr "成功"
@@ -2168,6 +2316,9 @@ msgstr "推荐者"
 msgid "Summer"
 msgstr "夏日"
 
+msgid "Sunder the world, wield a miracle"
+msgstr "创造奇迹，冲破世界"
+
 msgid "Sync"
 msgstr "同步"
 
@@ -2180,6 +2331,9 @@ msgstr "对立 & 中二企鹅"
 msgid "Tairitsu & Trin"
 msgstr "对立 & 托凛"
 
+msgid "Take her hand"
+msgstr "牵着她的手"
+
 msgid "Tap"
 msgstr "点击"
 
@@ -2188,7 +2342,7 @@ msgid ""
 "scores.\n"
 "Once synchronized they can be safely restored to any new devices."
 msgstr ""
-"轻点屏幕左上角的 “同步” 按钮以上传您的分数。\n"
+"轻点屏幕左上角的「同步」按钮以上传您的分数。\n"
 "云端同步成功后，分数将能被安全存储至其他设备。"
 
 msgid ""
@@ -2196,7 +2350,7 @@ msgid ""
 "Tap the appropriate one of 4 floor lanes."
 msgstr ""
 "点击接触判定线的「地面音符」\n"
-"记得点击正确的那条通道"
+"记得在四条轨道中点击正确的那条"
 
 msgid "Tap Music Play to get started playing songs."
 msgstr "若想开始游玩歌曲，请点击「开始游戏」按钮"
@@ -2269,11 +2423,33 @@ msgstr "Arcaea 的服务器正在维护中"
 msgid "The Lead selects a song to play."
 msgstr "房主选择将要游玩的一首歌曲"
 
+msgid "The battle begins again"
+msgstr "战斗，再次开始"
+
 msgid "The data on this device will be replaced with the cloud save."
 msgstr "将会用云端数据替换本机数据"
 
 msgid "The purchase could not be completed."
 msgstr "购买无法完成"
+
+msgid ""
+"The story of Arcaea draws to a close.\n"
+"\n"
+"A choice has been made and the fate of two is sealed. Choices made cannot be "
+"undone.\n"
+"\n"
+"You have now unlocked the ability to re-play past Anomalies\n"
+"when their conditions are met.\n"
+"\n"
+"An additional story entry has been unlocked."
+msgstr ""
+"Arcaea 的故事画上了句号。\n"
+"\n"
+"你已经做出了选择，而她们二人的命运也已被确定。所有做出的选择已无法收回。\n"
+"\n"
+"现在你可以在达成相应条件后重新进入过去的异象。\n"
+"\n"
+"一个新的故事已解锁。"
 
 msgid "Their Story"
 msgstr "她们的故事"
@@ -2284,7 +2460,7 @@ msgid ""
 msgstr "房间内有玩家尚未购买或解锁这首歌曲"
 
 msgid "There is a new version of Arcaea available. Please update."
-msgstr "服务器只支持最新的版本。请更新 Arcaea"
+msgstr "韵律源点目前有新版本，请进行更新。"
 
 msgid "There was a problem receiving the server response."
 msgstr "尝试获取服务器响应时发生问题"
@@ -2294,7 +2470,7 @@ msgid ""
 "Please check your progress after re-entering World Mode."
 msgstr ""
 "尝试获取服务器响应时发生问题\n"
-"请再次进入世界模式确定你的故事进展"
+"请再次进入世界模式确定你的进度"
 
 msgid "There was a problem saving the song. Please check storage."
 msgstr "保存歌曲时发生问题。请检查设备空间容量。"
@@ -2364,7 +2540,7 @@ msgid ""
 "Contact support@lowiro.com if you have concerns."
 msgstr ""
 "购买已成功进行。\n"
-"请尝试点选“恢复购买”按扭。\n"
+"请尝试点击「恢复购买」按扭。\n"
 "如果您还有问题，欢迎邮箱咨询support@lowiro.com。"
 
 msgid ""
@@ -2373,7 +2549,7 @@ msgid ""
 "or restarting Arcaea once complete."
 msgstr ""
 "本次购买需进行额外的操作步骤。\n"
-"请尝试点击“恢复购买”按钮，\n"
+"请尝试点击「恢复购买」按钮，\n"
 "并重新启动韵律源点。"
 
 msgid ""
@@ -2416,6 +2592,9 @@ msgstr ""
 "这将永久删除你的账号！\n"
 "你将收到一封邮件以确认是否要继续删除账号"
 
+msgid "Time remaining until Course abandoned"
+msgstr "在以下时间截止后段位挑战将自动放弃"
+
 msgid "Time to next conversion:"
 msgstr "下一次交换机会："
 
@@ -2433,6 +2612,9 @@ msgstr "界面顶端"
 
 msgid "Track Lost after 20 LOST notes"
 msgstr "流失20个音符后，当前游玩曲目将立即失败"
+
+msgid "Transcend your limit"
+msgstr "超越你的极限"
 
 msgid ""
 "Transfer your scores and unlocks to any other device\n"
@@ -2462,10 +2644,10 @@ msgid "Unlock"
 msgstr "解锁"
 
 msgid "Unlock %@ by purchasing %2@"
-msgstr "购买「%2@」来解锁「%@」。"
+msgstr "购买「%2@」即可解锁「%@」"
 
 msgid "Unlock %@ by purchasing the %2@ pack"
-msgstr "购买《%2@》故事包来解锁「%@」。"
+msgstr "购买「%2@」故事包即可解锁「%@」"
 
 msgid "Unlock Conditions"
 msgstr "解锁条件"
@@ -2478,6 +2660,9 @@ msgstr "通过游玩「世界模式」或购买故事包来解锁新搭档。"
 msgid "Unlocked by reaching Potential 9.00"
 msgstr "潜力值到达 9.00 以解锁"
 
+msgid "Unlocked in Axiom of the End"
+msgstr "在「Axiom of the End」中解锁"
+
 msgid ""
 "Unlocked in World Mode\n"
 " Chapter %@"
@@ -2485,8 +2670,8 @@ msgstr ""
 "经由世界模式解除封印\n"
 "  章节 %@"
 
-msgid "Update '%@' Pack?"
-msgstr "更新《%@》曲包吗？"
+msgid "Update '%1@' Pack?"
+msgstr "更新《%1@》曲包吗？"
 
 msgid "Upgrade"
 msgstr "升级"
@@ -2505,6 +2690,9 @@ msgstr "使用残片"
 
 msgid "Use Memories"
 msgstr "使用记忆源点"
+
+msgid "Use Warped Shard to play this course?"
+msgstr "是否使用次元结晶进行本次段位挑战？"
 
 msgid ""
 "Use two fingers when two Arc notes appear.\n"
@@ -2535,6 +2723,11 @@ msgid "Vita"
 msgstr "维塔"
 
 msgid ""
+"WARNING! Cancelling will consume\n"
+"your Warped Shard/Stamina."
+msgstr "警告！一旦取消，你的体力 / 次元结晶将不会返还"
+
+msgid ""
 "WARNING! You are using a modified version of Arcaea.\n"
 "Continued use will result in the banning of your account.\n"
 "This is a final warning."
@@ -2555,6 +2748,16 @@ msgstr "等待房主选择……"
 msgid "Warning"
 msgstr "警告"
 
+msgid "Warped Shard"
+msgstr "次元结晶"
+
+msgid ""
+"Warped Shards can be used instead of stamina to start any unlocked course.\n"
+"They are obtained through World Mode and various means."
+msgstr ""
+"次元结晶可以代替体力用于挑战任意已解锁的段位\n"
+"它们可以通过世界模式等各种方式获得"
+
 msgid "Watch the upper input area for Sky notes."
 msgstr "请留意出现在上端输入线的「天空音符」"
 
@@ -2565,8 +2768,8 @@ msgid ""
 "Welcome to Arcaea!\n"
 "Here are the basics to get started."
 msgstr ""
-"欢迎来到 Arcaea\n"
-"让我们一起学学基础知识"
+"欢迎来到韵律源点Arcaea！\n"
+"让我们一起学习游玩基本操作"
 
 msgid ""
 "Welcome to Arcaea!\n"
@@ -2575,7 +2778,7 @@ msgid ""
 "You can re-configure this later through the Settings menu."
 msgstr ""
 "欢迎来到 Arcaea！\n"
-"请完成设置来完善时间判定\n"
+"请完成设置来完善时间判定。\n"
 "\n"
 "你可以稍后在游戏设定页更改这项设定"
 
@@ -2583,28 +2786,45 @@ msgid "When enabled, each player takes turns selecting a song to play."
 msgstr "开启后，玩家将轮流选择曲目游玩"
 
 msgid ""
-"When starred, your favorite Partner will be shown to friends\n"
-"and on leaderboards. You can change or unset this at any time."
+"When set, your profile Partner will be shown to friends\n"
+"and on leaderboards. You can change or remove which Partner is set at any "
+"time."
 msgstr ""
-"设置星标后，你最喜爱的搭档会在排行榜与好友列表中作为用户头像显示。\n"
-"你可以随时更换星标角色。"
+"在设置后，你将会在好友及排行榜中展示档案上的搭档。\n"
+"你可以在任意时候更换或移除所展示的搭档。"
 
 msgid ""
 "While some songs are unlocked with Fragments, others are unlocked in World "
 "Mode."
-msgstr ""
-"你可以使用“残片”解锁部分歌曲而其余的曲目则大多需要通过“世界模式”解除封印"
+msgstr "你可以使用残片解锁部分歌曲而其余的曲目则大多需要通过「世界模式」解锁"
 
 msgid "Winter"
 msgstr "冬日"
+
+msgid "With perfection or imperfection"
+msgstr "完美地，或是空洞地"
 
 msgid "World"
 msgstr "世界"
 
 msgid ""
+"World Mode has been overloaded.\n"
+"The overload will clear in %@.\n"
+"\n"
+"Refilling stamina will immediately restore World Mode."
+msgstr ""
+"世界模式已过载\n"
+"过载将于 %@ 后恢复\n"
+"\n"
+"获取体力后将立即恢复世界模式"
+
+msgid ""
 "World Mode progress randomly increased\n"
 "or decreased between %2@ and %3@"
 msgstr "世界进度在 %2@ 和 %3@ 之间随机增减"
+
+msgid "World Overload"
+msgstr "世界过载"
 
 msgid ""
 "World progress increased by\n"
@@ -2630,6 +2850,13 @@ msgid "You are Lead. Select a song..."
 msgstr "你是房主，请选择歌曲……"
 
 msgid ""
+"You are at the point of no return.\n"
+"Proceeding will make a decision that you can not reverse."
+msgstr ""
+"你即将走上这条不归之路\n"
+"一旦前进，你将无法撤回当前的决定"
+
+msgid ""
 "You are close to the end of this map!\n"
 "Are you sure you want to activate Memory Boost?"
 msgstr ""
@@ -2642,7 +2869,7 @@ msgstr "你不是房主"
 msgid ""
 "You can check this Tutorial again any time\n"
 "from the main menu."
-msgstr "你可以随时在主菜单中查看教程"
+msgstr "你可以随时在主菜单的「其他」选项查看教程"
 
 msgid ""
 "You can come back any time to reread story entries you've already unlocked."
@@ -2675,6 +2902,15 @@ msgid ""
 "(including stacks of %2@)."
 msgstr "目前共持有%@残片（包括%2@残片的累积）"
 
+msgid "You do not have any Warped Shards."
+msgstr "你没有任何次元结晶"
+
+msgid "You do not have enough Stamina."
+msgstr "你没有足够的体力"
+
+msgid "You do not have enough any Warped Shards."
+msgstr "你没有足够的次元结晶"
+
 msgid "You do not have enough stamina."
 msgstr "你没有足够的体力"
 
@@ -2700,14 +2936,14 @@ msgstr ""
 "* 在商城为此次购买支付费用\n"
 "* 等待购买被批准\n"
 "\n"
-"在这些事项完成后请点击“恢复购买”"
+"在这些事项完成后请点击「恢复购买」"
 
 msgid ""
 "You have incomplete purchases.\n"
 "Please attempt tapping 'Complete Purchase'."
 msgstr ""
 "您的账号拥有尚未完成的交易。\n"
-"请尝试点击“恢复购买”按钮。"
+"请尝试点击「恢复购买」按钮。"
 
 msgid ""
 "You have no Ether Drops. Ether Drops can be acquired\n"
@@ -2715,6 +2951,12 @@ msgid ""
 msgstr ""
 "你没有以太之滴。\n"
 "以太之滴可以通过游玩世界模式获取。"
+
+msgid "You have not yet unlocked a special song in this course."
+msgstr "你还没有解锁当前段位中的一首特别歌曲"
+
+msgid "You have not yet unlocked all of the songs in this course."
+msgstr "你还没有解锁当前段位中的全部歌曲"
 
 msgid "You have reached the maximum friend limit."
 msgstr "你的好友列表已满"
@@ -2739,6 +2981,9 @@ msgstr ""
 msgid "You must be online and logged in to upgrade Partners."
 msgstr "您必须联网并登录来升级搭档。"
 
+msgid "You must complete the previous course to challenge this one."
+msgstr "在开始挑战本段位前，你必须先通过上一个段位"
+
 msgid "You must unlock the previous map to reveal this song."
 msgstr "你必须解锁前一个地图以揭晓这首歌曲"
 
@@ -2746,7 +2991,7 @@ msgid "You must unlock ‘%@’ %2@ and ‘%3@’ %4@ to engage this song."
 msgstr "你必须解锁‘%@’ %2@和‘%3@’ %4@以进行这首歌曲"
 
 msgid "You must unlock ‘%@’ %2@ to engage this song."
-msgstr "你必须解锁‘%@’ %2@以进行这首歌曲"
+msgstr "进入此曲前，你必须先解锁 %2@ 难度的「%@」"
 
 msgid ""
 "You no longer have enough Fragments\n"
@@ -2757,7 +3002,7 @@ msgid "You were removed from the room."
 msgstr "你已被请出房间"
 
 msgid "You'll also earn Fragments to unlock more songs and difficulties."
-msgstr "游玩时获取的“残片”点数能用来解锁新的曲目或难度"
+msgstr "游玩时获取的「残片」能用来解锁新的曲目或难度"
 
 msgid ""
 "You've logged into over 2 devices in 24 hours.\n"
