@@ -3,7 +3,7 @@ Built-By: Signflinger
 Created-By: Android Gradle 7.1.2
 
 Name: AndroidManifest.xml
-SHA-256-Digest: Q3tF+ulEPNbW+1YwHuihxDilJWupGFKk+260JV/AA+I=
+SHA-256-Digest: MTLPFJGaDMScsTRXfsI5bDOkgViqQ0mrxJrFbXKocK0=
 
 Name: META-INF/androidx.activity_activity.version
 SHA-256-Digest: VjoLTuw8d7vDSsYw1PpSFPXGcmrgFGhAT9cERzEQCE4=
@@ -3271,9 +3271,6 @@ SHA-256-Digest: E89Ko3azgtTOZDlvPFDExWD0qmLa45S/Vnul0iezzDU=
 Name: assets/img/multiplayer/char/4u.png
 SHA-256-Digest: Qd1CZGJ1tZr6Uc30b4plSaHKQXOJmCKFECASwH8ztvE=
 
-Name: assets/img/multiplayer/char/5.png
-SHA-256-Digest: GKTdSptk1vKlEuzNis+4P9ylJx0B+LUQa/X36rT4Dv8=
-
 Name: assets/img/multiplayer/char/50.png
 SHA-256-Digest: jiASEAN6syuv6j02EvgzAO8W/5xi9I7ej8kdpfsN/HE=
 
@@ -3291,9 +3288,6 @@ SHA-256-Digest: dp6iSQYIOKANzpnUy7t7r9TMnSoG8s4vqTpagtA9mqc=
 
 Name: assets/img/multiplayer/char/55.png
 SHA-256-Digest: pQdnDT4wYXfhNz8QflmT+3Pv4JzYHanr93h5A2uamSk=
-
-Name: assets/img/multiplayer/char/5u.png
-SHA-256-Digest: GKTdSptk1vKlEuzNis+4P9ylJx0B+LUQa/X36rT4Dv8=
 
 Name: assets/img/multiplayer/char/6.png
 SHA-256-Digest: mwvGuotkWWI6E+vvTkPcJfq6kDw6VvlCkMGmZtU4OcI=
@@ -11148,10 +11142,10 @@ Name: assets/tl/ko.mo
 SHA-256-Digest: 2mGPWKqqJ3wKLHFCw4Ygfk+2tKSy6SaBTSqdI8Dosic=
 
 Name: assets/tl/zh-Hans.mo
-SHA-256-Digest: NHju4TOIZQbLRyZjav9wf+Edc9PWlCdzph/CqE4LaCA=
+SHA-256-Digest: 0ZzByPbhp64x2z4gxDD/5ne4fybMGXmZ5JVjltk8iZY=
 
 Name: assets/tl/zh-Hant.mo
-SHA-256-Digest: eZw3heGN7YZV+jgmTqz9i15Tv27uQFPaF7ZPRnPOwPA=
+SHA-256-Digest: VyhemVvsUzlCljqQI43sBI3ICxRlM5wqJ/50/ZV5B6o=
 
 Name: assets/voice/21_charase_con.ogg
 SHA-256-Digest: c9ykRr+faqsL6OuBGKNvNPLNF6xi4XX0XnDKb3toeHY=
@@ -11202,7 +11196,7 @@ Name: billing.properties
 SHA-256-Digest: h0CIdYSl9yDclhg06qYZby7Sg5xprOvok+hHE7lUUgE=
 
 Name: classes.dex
-SHA-256-Digest: LyhCT9E3hVXpwvzZ5Rv5/3oGuuUoys4D0FHYEASec04=
+SHA-256-Digest: ivWBFoGqho0uvnlfgLBSNWwyxFz9rVgLBJOy5TwmW20=
 
 Name: core.properties
 SHA-256-Digest: Z0lHeHGH6h95yWR8CvhA6at3Izwdu7ePn+eRDC2n0b4=
@@ -11253,7 +11247,7 @@ Name: firebase-messaging.properties
 SHA-256-Digest: NVWmHZJsKt0fGp5l40JNs+YjBxur+mavAK4+/wBUqoo=
 
 Name: lib/arm64-v8a/libcocos2dcpp.so
-SHA-256-Digest: TtZ8LhcKBMzgGd8i5RiUHJHm9MSWqKgTWAhmk5k4NII=
+SHA-256-Digest: ThjXQ+wCNZIV4tihKGbtp1/pkpUE3WlVEnk3LhkgB8M=
 
 Name: lib/arm64-v8a/libcrashlytics-common.so
 SHA-256-Digest: UMwz4K1NPmTdr/8wCix8ojNqrrBn8gyxYiMCYC+wBK4=
@@ -11271,10 +11265,10 @@ Name: lib/arm64-v8a/libfmod.so
 SHA-256-Digest: waoFS+qEvKLoMW01hW/ZZA0JR8mHDCPWKhlFUisAYRI=
 
 Name: lib/arm64-v8a/libfmodProvider.so
-SHA-256-Digest: 84Lv8mFbr/0cOzXCyL+qLGalWdy0rZdDZmWjJvyHGwE=
+SHA-256-Digest: oixx22ljNChhfjmkKusLacOggD8vJf+DLcvA4J7v3R4=
 
 Name: lib/armeabi-v7a/libcocos2dcpp.so
-SHA-256-Digest: BBong6LzgpLhpxAniepiV7AoCbui7bjvb6OdMM1If18=
+SHA-256-Digest: xb584us25l9mpTUl+wzwW0SvEhPhvdu6rGEaxoH+zPQ=
 
 Name: lib/armeabi-v7a/libcrashlytics-common.so
 SHA-256-Digest: UWJgm4WZ+t9Np3Yz5ngu3FB8dOMyqpMW/TyKvU3dWZw=
@@ -11292,7 +11286,7 @@ Name: lib/armeabi-v7a/libfmod.so
 SHA-256-Digest: SEntJ03OvcCrm6LQEvpBV4v3uXoVaW6sHsQ9Qxjl7Ck=
 
 Name: lib/armeabi-v7a/libfmodProvider.so
-SHA-256-Digest: Z+N3G68pcxHynALErAI8StP8FXCh7CN1Wt63RITRr+k=
+SHA-256-Digest: pvuV76TQDkvWznFevLKVndb0f6zCRPrEatBCMOQp+WQ=
 
 Name: play-services-ads-identifier.properties
 SHA-256-Digest: E9jSSQjTMoU7y2IFTAgYSe2wDi2YMJimRt8KtU8WIZQ=
