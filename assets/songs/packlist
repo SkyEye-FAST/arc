@@ -27,6 +27,21 @@
       }
     },
     {
+      "id": "epilogue",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Silent Answer"
+      },
+      "pack_parent": "finale",
+      "description_localized": {
+        "en": "",
+        "ja": "",
+        "ko": "",
+        "zh-Hant": "",
+        "zh-Hans": ""
+      }
+    },
+    {
       "id": "finale",
       "plus_character": -1,
       "name_localized": {

@@ -4054,6 +4054,186 @@
           "type": 104
         }
       ]
+    },
+    {
+      "songId": "lovelessdress",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lovelessdress",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lovelessdress",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "callimakarma",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "callimakarma",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "callimakarma",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "last",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lovelessdress",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 106,
+          "song_id":"lasteternity",
+          "song_difficulty": 3,
+          "inverted": true
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 0,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lasteternity",
+          "song_difficulty": 0,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 1,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lasteternity",
+          "song_difficulty": 1,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 2,
+      "conditions": [
+        {
+          "type": 1,
+          "song_id": "lasteternity",
+          "song_difficulty": 2,
+          "grade": 0
+        },
+        {
+          "type": 104
+        }
+      ]
+    },
+    {
+      "songId": "lasteternity",
+      "ratingClass": 3,
+      "conditions": [
+        {
+          "type": 105,
+          "char_id": 5,
+          "awakened": true,
+          "inverted": false
+        },
+        {
+          "type": 104
+        }
+      ]
     }
   ]
 }
